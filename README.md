@@ -1,5 +1,5 @@
 # todoList
-Mini web applictation that alllows todo management using Spring Boot, Spring MVC, Spring Security, JSP, Hibernate and PostgresSQL
+Mini web applictation that alllows to-do managing using Spring Boot, Spring MVC, Spring Security, JSP, Hibernate and PostgresSQL
 
 ## Usage
 To use the application you need to start SQL server, options of witch are in application.properties
