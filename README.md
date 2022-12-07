@@ -2,7 +2,7 @@
 Mini web applictation that alllows to-do managing using Spring Boot, Spring MVC, Spring Security, JSP, Hibernate and PostgresSQL
 
 ## Usage
-To use the application you need to start SQL server, options of witch are in application.properties
+To use the application you need to start SQL server, options of which are in application.properties
 
 Application may start from IDE or with command mvn spring-boot:run
 
